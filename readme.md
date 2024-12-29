@@ -48,8 +48,9 @@ pip install -r requirements.txt
 	•	Adjust the URL or model name in the script if your setup differs.
 
 # Project Structure
-
+```
 ├── input.txt            # Overall book summary
 ├── outline.txt          # Chapter outlines in CSV (chapter_number,chapter_title,chapter_summary)
 ├── book.txt             # Generated book content (created/updated by the script)
 ├── requirements.txt
+```
