@@ -5,7 +5,7 @@ This repository contains a Python script that automatically writes a book using 
 - **`input.txt`**: A file containing a **single, overall book summary** or setting.  
 - **`outline.txt`**: A **CSV** file of chapters, each line containing:  
 
-chapter_number,chapter_title,chapter_summary
+```chapter_number,chapter_title,chapter_summary```
 
 - **A Python script** that:
 1. Reads the **book summary** from `input.txt`.  
