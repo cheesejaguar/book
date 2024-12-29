@@ -38,9 +38,10 @@ This repository contains a Python script that automatically writes a book using 
 
 ### Install Dependencies
 
+```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-
+```
 
 ### Check that Ollama is running locally and that the model you want to use ("llama3.3") is installed or configured.
 	•	By default, the script expects to reach Ollama at http://localhost:11434/api/generate.
