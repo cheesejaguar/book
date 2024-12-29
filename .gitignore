@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Local config
+*.env
+.env.*
+
+# OS-specific
+.DS_Store
+
+# Ignore all .txt files
+*.txt
